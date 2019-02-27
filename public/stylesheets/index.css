@@ -1,0 +1,18 @@
+h1 {
+    font-size: 2em;
+    color: #444;
+}
+.containerA {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.containerA > a {
+    color: #444;
+    transition: 0.5;
+}
+
+.containerA > a:hover {
+    color: #444;
+    transition: 0.5;
+}
